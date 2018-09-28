@@ -78,7 +78,7 @@ language: php
 ```
 {: data-file=".travis.yml"}
 
-Or pick one from the [full list](/user/languages/).
+Or pick one from the [full list](/user/language/).
 
 ## Selecting infrastructure (optional)
 
